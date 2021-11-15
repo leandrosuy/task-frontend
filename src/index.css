@@ -55,6 +55,11 @@ body {
 }
 
 .textoAlert {
+  color: green;
+  animation: blinker 2s linear infinite;
+}
+
+.textoAtrasada {
   color: red;
   animation: blinker 2s linear infinite;
 }
