@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Newsletter</h1>
+<h1 style="text-align: center; font-weight: bold;">Tarefas</h1>
 
 ## Demo 📸
 
